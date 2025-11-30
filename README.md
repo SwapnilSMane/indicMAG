@@ -2,7 +2,9 @@
 
 ## Overview
 
-IndicMAG is a comprehensive multilingual benchmark dataset for multidimensional aggression content detection in Indian context. The dataset comprises **78,875 manually annotated social media posts** across four major Indian languages: **English**, **Hindi**, **Bengali**, and **Marathi**.
+IndicMAG is a multilingual benchmark dataset for multidimensional aggression content detection in Indian context. The dataset comprises **78,875 manually annotated social media posts** across four major Indian languages: **English**, **Hindi**, **Bengali**, and **Marathi**.
+
+The multidimensionality is critical for culturally diverse reasons, such as in India.
 
 ### Key Features
 
