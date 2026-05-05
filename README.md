@@ -89,11 +89,6 @@ The provided test set contains the following columns:
 
 All personally identifiable information has been removed.
 
-## Dataset Availability
-
-- **Current Repository**: Sample Test set (1,000 samples) for review purposes
-- **Full Dataset Access**: After publication, the complete dataset (78,875 samples) with train/validation/test splits will be available upon request with a research proposal to prevent misuse and ensure responsible research use
-
 
 ## Ethical Considerations
 
