@@ -95,3 +95,24 @@ All personally identifiable information has been removed.
 - **Responsible Use**: Dataset intended for research purposes only
 - **Cultural Sensitivity**: Annotations reflect authentic patterns without amplification
 
+
+---
+
+## 📄 Citation
+
+If you use this work, please cite:
+
+Mane, S., Sharma, R., & Kundu, S. (2026). *IndicAG: An Explainable Agentic Framework for Indic-Multilingual Multidimensional Aggression Detection*. In Proceedings of the ACM Web Conference (WWW). https://doi.org/10.1145/3774904.3793018
+
+### BibTeX
+```bibtex
+@inproceedings{mane2026indicag,
+  title     = {IndicAG: An Explainable Agentic Framework for Indic-Multilingual Multidimensional Aggression Detection},
+  author    = {Mane, Swapnil and Sharma, Rajesh and Kundu, Suman},
+  booktitle = {Proceedings of the ACM Web Conference (WWW)},
+  year      = {2026},
+  doi       = {10.1145/3774904.3793018},
+  publisher = {ACM}
+}
+
+
