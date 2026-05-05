@@ -24,8 +24,6 @@ IndicMAG is a multilingual benchmark dataset for multidimensional aggression con
 - **Full Dataset**: 78,875 samples
 - **Sample Test Set** (provided): 1,000 samples
 
-**Note**: For anonymous review, only the **sample test set** is provided with this submission. The **complete dataset will be released upon request with a research proposal after publication to ensure responsible use and prevent misuse**.
-
 ## Annotation Schema
 
 ### Aggression Level
